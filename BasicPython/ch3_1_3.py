@@ -42,4 +42,4 @@ print(members.index("태호"))
 # list.remove(X)는 list에서 첫번째로 X의 값을 갖고 있는 원소를 삭제해준다.
 fruits = ["딸기", "당근", "파인애플", "수박", "참외", "메론"]
 fruits.remove("파인애플")
-print(fruits)초
+print(fruits)

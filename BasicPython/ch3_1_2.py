@@ -23,4 +23,4 @@ print(12 in primes)
 
 primes = [2, 3, 5, 7, 11, 13, 17, 19, 23]
 print(7 not in primes)
-print(12 not in primes)초
+print(12 not in primes)
