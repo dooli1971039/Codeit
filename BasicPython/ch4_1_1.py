@@ -7,7 +7,6 @@
 
 
 # standard library (표준 라이브러리)
-
 import math
 print(math.log10(100))
 print(math.cos(0))
